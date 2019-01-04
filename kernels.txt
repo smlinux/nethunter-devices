@@ -2,6 +2,10 @@ Locations of all kernels used in Kali NetHunter.
 
 If you wish to add a kernel/new device, leave a link to source here and feel free to add your name if you wish:
 
+# - Xiaomi Redmi 5 Plus
+# MIUI 10
+# git clone https://github.com/smlinux/android_kernel_xiaomi_msm8953.git -B vince/oreo-miui-kali
+
 # - ZTE Axon 7
 # MiFavor
 # git clone https://github.com/jcadduono/android_kernel_zte_msm8996.git -B nethunter-6.0
