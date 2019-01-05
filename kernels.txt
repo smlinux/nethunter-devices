@@ -4,7 +4,7 @@ If you wish to add a kernel/new device, leave a link to source here and feel fre
 
 # - Xiaomi Redmi 5 Plus
 # MIUI 10
-# git clone https://github.com/smlinux/android_kernel_xiaomi_msm8953.git -B vince/oreo-miui-kali
+# git clone https://github.com/smlinux/android_kernel_xiaomi_msm8953.git -b vince/oreo-miui-kali
 
 # - ZTE Axon 7
 # MiFavor
